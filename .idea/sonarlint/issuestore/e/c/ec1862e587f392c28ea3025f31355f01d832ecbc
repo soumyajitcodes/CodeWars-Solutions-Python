@@ -1,0 +1,3 @@
+
+ppython:S117"YRename this local variable "sumToBin" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á ¼ë
+Cpython:S5806"+Rename this variable; it shadows a builtin.(»Üº¬
