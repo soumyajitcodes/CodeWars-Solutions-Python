@@ -20,3 +20,17 @@ M
 main/8kyu-NeedleInHayStack.py,0\6\0672e73dd03efad4e77a24d77b928ce33be5a5cf
 L
 main/7kyu-SumOfOddNumbers.py,a\1\a17b71244abb186c52fb0e2e8d148ee43acf4ac7
+G
+main/6kyu-SortTheOdd.py,0\a\0aa5e4b836f552897b37ceef787f25e507128892
+Q
+!main/8kyu-GrasshopperSummation.py,e\2\e27dc99d81722871893c72f9640911e84af230dd
+I
+main/7kyu-ShortestWord.py,7\a\7a6c12efea30a0fb044a1a6bea76918e8c2524ec
+O
+main/6kyu-TribonacciSequence.py,2\2\22458626e17254525cc6f66e11c74e5abac6bd89
+L
+main/7kyu-DescendingOrder.py,8\b\8b07f95f9a790713a03707ea5dbf214b4cb2e462
+S
+#main/8kyu-AbbreviateATwoWordName.py,f\b\fbd7505872882b401707732428afef812afe324a
+L
+main/8kyu-CenturyFromYear.py,0\7\07d5bd5c9fa8eadcde98b5df2d5fd9c9bef60430
